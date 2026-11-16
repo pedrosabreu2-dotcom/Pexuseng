@@ -34,13 +34,22 @@ Quantidades para **1 técnico** (Pedro). EPI e kit de altura para o ajudante ent
 | 1 (se preciso) | Junto com o Lote 1 | Manifold para R-410A/R-32 (se o atual for de R-22) | 350 – 800 | Segurança e medição correta nos fluidos de alta pressão |
 | **2 — Produtividade e segurança** | Em 30–60 dias | Balança de carga, **detector de vazamento**, serra copo + extensor, parafusadeira a bateria, nível, kit trabalho em altura (1 conjunto) + curso NR-35 | 1.960 – 5.650 | Carga correta de gás, achar vazamento na corretiva, furos rápidos e trabalho seguro em fachada |
 | **3 — Diagnóstico e ampliação** | Quando houver demanda | Multímetro, curvador, bolsa coletora para piso-teto/cassete (acima de 30.000 BTU/h) | 400 – 1.150 | Corretiva elétrica e higienização de equipamentos maiores |
-| **Total para fechar a Fase 1** | | | **3.700 – 10.530** (+ 350 – 800 se precisar de manifold) | |
+| **Maresia** | Junto com o Lote 1 | Ferramentas/EPI: respirador com filtro VO, escova inox, lixas, pincéis | 120 – 300 | Aplicação segura dos produtos anticorrosivos |
+| **Total para fechar a Fase 1** | | | **3.820 – 10.830** (+ 350 – 800 se precisar de manifold) | |
+
+### Materiais de proteção contra maresia (estoque inicial, ~4 condensadoras)
+Revestimento anticorrosivo para serpentina, verniz isolante para placa, graxa de silicone
+dielétrica, galvanização a frio em spray, silicone líquido em spray (só gabinete), álcool
+isopropílico e parafusos inox — **R$ 480 – 1.110**. Detalhes e procedimento:
+`operacional/04-materiais/kit-protecao-maresia.md`.
 
 ## 3. Particularidades do Rio de Janeiro
 - **Alta temporada começando (nov–mar):** pico de instalação e de corretiva. Priorizar instalações
   e higienizações agendadas e alinhar com o Michael a divulgação de acordo com a agenda real.
 - **Maresia em bairros litorâneos:** usar suporte galvanizado a fogo ou inox, parafusos inox,
-  e recomendar proteção anticorrosiva da condensadora e preventiva mais frequente.
+  aplicar o kit de proteção anticorrosiva (`kit-protecao-maresia.md`) e recomendar lavagem da
+  serpentina com água doce a cada 3–6 meses. A proteção anticorrosiva também é um **serviço
+  avulso** para vender (preço com o James, divulgação com o Michael).
 - **Condomínios:** regras de fachada e horário de obra são comuns — perguntar na triagem.
 - **Trânsito:** agrupar atendimentos por zona (Zona Sul, Norte, Oeste, Centro, Niterói) no mesmo dia.
 

@@ -90,6 +90,18 @@ def cmd_materiais(a):
         ("Massa de calafetar / silicone", "tubo", math.ceil(q / 2)),
         ("Abraçadeiras de nylon", "un", 10 * q),
     ]
+    if a.maresia:
+        latas = 1 if a.btu <= 12000 else 2 if a.btu <= 24000 else 3
+        itens += [
+            ("[Maresia] Revestimento anticorrosivo para serpentina 400 ml", "lata", latas * q),
+            ("[Maresia] Verniz isolante para placa eletrônica (spray)", "lata", math.ceil(q / 8)),
+            ("[Maresia] Graxa de silicone dielétrica", "bisnaga", math.ceil(q / 10)),
+            ("[Maresia] Spray de galvanização a frio 400 ml", "lata", math.ceil(q / 3)),
+            ("[Maresia] Silicone líquido em spray 300 ml (gabinete)", "lata", math.ceil(q / 4)),
+            ("[Maresia] Kit parafusos/porcas/arruelas inox", "kit", q),
+        ]
+        itens = [(n.replace("Suporte para condensadora (par)", "Suporte para condensadora galvanizado a fogo/inox (par)"), u, x)
+                 for n, u, x in itens]
     print(f"## Lista de materiais — {q} × split {br(a.btu)} BTU/h, linha {L:g} m\n")
     print("| Item | Un. | Qtd. |")
     print("|---|---|---|")
@@ -100,6 +112,8 @@ def cmd_materiais(a):
     print(f"- Carga adicional de fluido: verificar manual (linha de {L:g} m vs. pré-carga de fábrica).")
     print("- Bitolas, cabo e disjuntor são referência — CONFIRMAR NO MANUAL DO FABRICANTE e NBR 5410.")
     print("- Itens de uso contínuo (N₂, varetas, espuma de vazamento) saem do estoque.")
+    if a.maresia:
+        print("- Maresia: procedimento e produtos em operacional/04-materiais/kit-protecao-maresia.md")
 
 
 def cmd_ferramentas(a):
@@ -153,6 +167,7 @@ def main():
     m.add_argument("--dreno", type=float, default=2.0, help="comprimento do dreno (m)")
     m.add_argument("--eletrica", type=float, default=10.0, help="distância do quadro (m)")
     m.add_argument("--qtd", type=int, default=1, help="quantidade de equipamentos iguais")
+    m.add_argument("--maresia", action="store_true", help="inclui kit de proteção anticorrosiva (região litorânea)")
     m.set_defaults(func=cmd_materiais)
 
     f = sub.add_parser("ferramentas", help="resumo do plano de aquisição")

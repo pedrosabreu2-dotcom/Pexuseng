@@ -21,7 +21,7 @@ operacional/
   01-projetos/      procedimento de projeto, carga térmica, memorial descritivo
   02-obras/         fluxo da obra, checklists, diário de obra, termo de entrega
   03-ferramentas/   plano de aquisição de ferramentas por fase (CSV + guia)
-  04-materiais/     tabelas técnicas, kits de material por serviço, requisição
+  04-materiais/     tabelas técnicas, kits de material (inclui proteção contra maresia), requisição
 ferramentas-sw/     scripts Python (calculadora de carga térmica e lista de materiais)
 obras/              uma pasta por obra: obras/AAAA-NNN-cliente/
 ```

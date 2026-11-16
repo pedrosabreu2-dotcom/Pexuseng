@@ -24,6 +24,7 @@ fase,categoria,item,especificacao_minima,qtd,preco_min_brl,preco_max_brl,priorid
 1,Segurança,Kit trabalho em altura,Cinto paraquedista + talabarte duplo com absorvedor + trava-quedas,2,350,900,A,pendente,NR-35 — fachada e telhado; requer treinamento
 1,Limpeza,Lavadora de alta pressão / bomba de higienização,Bomba costal ou lavadora compacta + coletor para split,1,300,900,A,comprado,Serviço de higienização (alta recorrência de receita) | SITUAÇÃO: Tem bomba de pressão + bolsa coletora até 30k + pulverizador
 1,Limpeza,Bolsa coletora para piso-teto/cassete,Para equipamentos acima de 30.000 BTU/h,1,150,400,B,pendente,Higienização de equipamentos maiores
+1,Proteção anticorrosiva,Kit aplicação anticorrosiva,Respirador semifacial com filtro VO + escova de aço inox + lixas + pincéis + fita crepe,1,120,300,B,pendente,Proteção de condensadoras em região de maresia (RJ litorâneo) — também serviço avulso
 1,Logística,Caixas organizadoras e bolsa de ferramentas,Maleta para manifold e vácuo,1,150,500,B,parcial,Conservação e produtividade | SITUAÇÃO: Tem maleta pequena
 2,Recolhimento,Recolhedora de fluido refrigerante,Compressor oil-less para HFC/R-32 + cilindro de recolhimento,1,3000,6500,A,pendente,Desinstalação e manutenção sem liberar gás (exigência ambiental)
 2,Vácuo e carga,Manifold digital,Com cálculo de superaquecimento/sub-resfriamento e vacuômetro integrado,1,1500,4000,B,pendente,Diagnóstico rápido e relatório ao cliente

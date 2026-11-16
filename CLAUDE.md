@@ -25,6 +25,7 @@ operacional/
 ferramentas-sw/     scripts Python (carga térmica, lista de materiais, custo de serviços)
 obras/              uma pasta por obra: obras/AAAA-NNN-cliente/
 servicos/           fichas de serviços (escopo, custo, preço sugerido)
+marketing/          campanhas prontas (artes + legendas) para o Michael
 ```
 
 ## Convenções

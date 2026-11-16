@@ -1,0 +1,36 @@
+fase,categoria,item,especificacao_minima,qtd,preco_min_brl,preco_max_brl,prioridade,status,justificativa
+1,Vácuo e carga,Bomba de vácuo,Duplo estágio 5 a 7 CFM com válvula solenoide anti-retorno,1,900,2000,A,pendente,Obrigatória para toda instalação; vácuo correto evita retorno em garantia
+1,Vácuo e carga,Vacuômetro digital,Leitura em mícrons (0-20.000 µmHg),1,450,1200,A,pendente,Única forma de comprovar vácuo abaixo de 500 µmHg
+1,Vácuo e carga,Manifold,Analógico 2 vias R-410A/R-32 com mangueiras 1/4 e 5/16 + adaptadores,1,350,800,A,pendente,Medição de pressões e carga
+1,Vácuo e carga,Balança eletrônica de carga,Até 100 kg resolução 5 g,1,500,1200,A,pendente,Carga adicional de fluido por massa
+1,Tubulação,Cortador de tubo,1/8 a 1 1/8 pol + mini cortador,2,80,250,A,pendente,Corte sem limalha
+1,Tubulação,Flangeador excêntrico,Com catraca 1/4 a 3/4 pol para R-410A,1,300,900,A,pendente,Flange de qualidade é a principal prevenção de vazamento
+1,Tubulação,Escareador / rebarbador,Lâmina giratória,1,30,80,A,pendente,Rebarba sem contaminar o tubo
+1,Tubulação,Curvador de tubos,Tipo alavanca 1/4 3/8 1/2 5/8,1,150,450,B,pendente,Evita amassamento e conexões extras
+1,Tubulação,Jogo de chaves de torque (torquímetro de flange),Chaves de boca com torque fixo 1/4 a 5/8 pol,1,300,800,A,pendente,Torque correto conforme fabricante
+1,Tubulação,Kit maçarico portátil,MAPP/oxi-GLP com varetas de prata 5% e 15%,1,300,1500,B,pendente,Emendas de linha longa
+1,Teste,Cilindro de nitrogênio + regulador,Cilindro 1 a 3 m³ com regulador de 2 manômetros até 800 psi,1,1200,2600,A,pendente,Teste de estanqueidade e purga de brasagem
+1,Teste,Detector de vazamento eletrônico,Sensor aquecido ou infravermelho para HFC/HFO,1,400,1500,B,pendente,Localizar vazamentos em manutenção corretiva
+1,Elétrica,Alicate amperímetro,True RMS com capacitância e temperatura,1,200,600,A,pendente,Corrente de compressor e diagnóstico de capacitor
+1,Elétrica,Multímetro digital,CAT III 600 V,1,100,300,B,pendente,Diagnóstico de placa e sensores
+1,Medição,Termômetro digital de contato + infravermelho,Com sonda tipo K para superaquecimento,1,100,350,A,pendente,Comissionamento e diagnóstico
+1,Furação,Martelete perfurador SDS Plus,800 W ou mais com função rompedor,1,600,1500,A,pendente,Furos de passagem em alvenaria/concreto
+1,Furação,Serra copo diamantada / bimetálica,Ø 63 a 76 mm + extensor SDS,1,150,450,A,pendente,Furo de passagem da linha
+1,Furação,Parafusadeira/furadeira a bateria,18 V com 2 baterias,1,500,1200,A,pendente,Fixação de suportes e placa
+1,Geral,Nível a laser ou bolha,Nível 60 cm + trena 5 m,1,60,400,A,pendente,Nivelamento da evaporadora
+1,Geral,Jogo de ferramentas manuais,Chaves de boca 8-24 mm Allen fenda philips alicates estilete,1,300,700,A,pendente,Uso geral
+1,Geral,Escada,Alumínio 7 a 9 degraus + extensível,1,400,1100,A,pendente,Acesso a evaporadoras e condensadoras
+1,Segurança,EPI básico,Capacete óculos luvas botina protetor auricular máscara PFF2,2,250,500,A,pendente,NR-6 — por técnico
+1,Segurança,Kit trabalho em altura,Cinto paraquedista + talabarte duplo com absorvedor + trava-quedas,2,350,900,A,pendente,NR-35 — fachada e telhado; requer treinamento
+1,Limpeza,Lavadora de alta pressão / bomba de higienização,Bomba costal ou lavadora compacta + coletor para split,1,300,900,A,pendente,Serviço de higienização (alta recorrência de receita)
+1,Logística,Caixas organizadoras e bolsa de ferramentas,Maleta para manifold e vácuo,1,150,500,B,pendente,Conservação e produtividade
+2,Recolhimento,Recolhedora de fluido refrigerante,Compressor oil-less para HFC/R-32 + cilindro de recolhimento,1,3000,6500,A,pendente,Desinstalação e manutenção sem liberar gás (exigência ambiental)
+2,Vácuo e carga,Manifold digital,Com cálculo de superaquecimento/sub-resfriamento e vacuômetro integrado,1,1500,4000,B,pendente,Diagnóstico rápido e relatório ao cliente
+2,Tubulação,Expansor de tubos (swaging),Cabeçotes 1/4 a 7/8 pol,1,250,900,B,pendente,Emendas sem luva
+2,Tubulação,Kit oxiacetileno portátil,Cilindros pequenos com regulador e maçarico,1,1500,3500,C,pendente,Brasagem de maior bitola
+2,Diagnóstico,Anemômetro / termo-higrômetro,Medição de vazão de ar e umidade,1,250,800,C,pendente,Comissionamento comercial e PMOC
+2,Diagnóstico,Câmera de inspeção / termográfica de celular,Termovisor acoplável,1,1200,3000,C,pendente,Diagnóstico elétrico e de isolamento
+2,Geral,Andaime tubular / plataforma,Aluguel sob demanda antes de compra,1,0,0,C,pendente,Fachadas — preferir locação
+3,Comercial,Bomba de vácuo de maior vazão,10 a 12 CFM,1,2500,5000,C,pendente,Sistemas VRF e linhas longas
+3,Comercial,Ferramentas de brasagem nitrogênio e prensagem,Prensa de conexões para cobre (opcional),1,5000,15000,C,pendente,Produtividade em obra comercial
+3,Comercial,Software de carga térmica e projeto,Licença de cálculo hora a hora,1,0,0,C,pendente,Projetos C2 e VRF

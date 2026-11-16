@@ -1,0 +1,25 @@
+item,unidade,estoque_minimo,ponto_de_pedido,observacao
+Tubo de cobre 1/4 pol (rolo 15 m),rolo,2,1,
+Tubo de cobre 3/8 pol (rolo 15 m),rolo,1,1,
+Tubo de cobre 1/2 pol (rolo 15 m),rolo,1,1,
+Tubo de cobre 5/8 pol (rolo 15 m),rolo,1,1,
+Isolamento elastomérico 1/4 pol (barra 2 m),barra,10,5,
+Isolamento elastomérico 3/8 pol (barra 2 m),barra,5,3,
+Isolamento elastomérico 1/2 pol (barra 2 m),barra,5,3,
+Isolamento elastomérico 5/8 pol (barra 2 m),barra,5,3,
+Fita PVC acabamento branca,rolo,10,5,
+Mangueira de dreno cristal/corrugada 16 mm,m,20,10,
+Cabo PP 4x1.5 mm²,m,20,10,
+Cabo PP 4x2.5 mm²,m,10,5,
+Suporte condensadora 400 mm (par),par,2,1,Até 12k
+Suporte condensadora 500 mm (par),par,2,1,18k a 24k
+Coxim antivibração,un,8,4,
+Bucha 10 + parafuso sextavado,un,20,10,
+Varetas de prata 5%,un,10,5,
+Gás R-32 (cilindro),kg,3,1,Verificar compatibilidade com cada equipamento
+Gás R-410A (cilindro 11.3 kg),cilindro,1,1,
+Espuma/detector de vazamento,frasco,2,1,
+Limpa-serpentina / bactericida,L,5,2,Higienização
+Massa de calafetar / silicone,tubo,4,2,Vedação do furo de passagem
+Abraçadeira nylon,pacote,2,1,
+Óleo POE para flange,frasco,1,1,

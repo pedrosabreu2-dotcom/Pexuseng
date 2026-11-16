@@ -50,7 +50,7 @@ preço dos produtos = meio da faixa estimada (**ainda não cotado**).
 2. James validar hora técnica, impostos (hoje como pessoa física) e comparar com o mercado.
 3. Fazer o serviço em 1–2 aparelhos (de preferência de cliente atual em Copacabana) para medir o
    tempo real e gerar fotos de antes/depois.
-4. Cadastrar "Proteção anticorrosiva" como serviço na tabela de mão de obra do app.
+4. ~~Cadastrar no app~~ — **feito em 16/11/2026**: 4 serviços (Completa/Básica × avulsa/com limpeza) para Split e Piso-Teto até 36.000 BTU/h, marcados como *estimados* até o James validar.
 
 ## Garantia sugerida
 Garantia do serviço de 90 dias (CDC) e orientação de lavar a serpentina com água doce a cada 3–6 meses.

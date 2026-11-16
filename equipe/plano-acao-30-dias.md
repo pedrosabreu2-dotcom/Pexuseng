@@ -15,7 +15,8 @@ tempo; chama o Jacó (ou outro ajudante) por diária quando precisa.
 
 **Ferramentas que já tem:** bomba de vácuo 5 CFM, vacuômetro digital Wipcool, manifold analógico
 R-410A/R-32 (com adaptação para R-22), flangeador excêntrico, cortador de tubo, curvadores
-(mola 1/2" e alavanca 1/4" e 3/8"), alicate amperímetro, termômetro digital pequeno, martelete,
+(mola 1/2" e alavanca 1/4" e 3/8"), alicate amperímetro, multímetro com capacímetro, parafusadeira,
+serra copo (gasta — repor), termômetro digital pequeno, martelete,
 escada retrátil (até 4,5 m), maleta pequena, cilindro de N₂ 1 m³ com regulador, maçarico portátil,
 kit de higienização (bomba de pressão, bolsa coletora até 30.000 BTU/h, pulverizador) e
 ferramentas básicas.
@@ -38,9 +39,9 @@ Pontos de atenção:
 |---|---|---|---|---|
 | **1 — Qualidade da instalação** | Antes do próximo serviço | Chaves de torque para flange, escareador, mini cortador, EPI básico, kit de aplicação anticorrosiva (respirador VO, escova inox, lixas, pincéis); termômetro com sonda de contato se o atual não tiver | 780 – 1.930 (+ 100 – 350 termômetro) | Torque errado é uma das principais causas de vazamento; EPI para os produtos anticorrosivos |
 | **2A — Recolhimento de fluido** | O quanto antes (prioridade ambiental) | Recolhedora compatível com A2L + 2 cilindros de recolhimento | 3.400 – 7.400 | Parar de liberar fluido; viabiliza desinstalação e corretiva de forma legal |
-| **2B — Produtividade e segurança** | Em 30–60 dias | Balança de carga, detector de vazamento, serra copo + extensor, parafusadeira a bateria, nível, kit trabalho em altura + curso NR-35 | 1.960 – 5.650 | Carga correta de gás, achar vazamento, furos rápidos, trabalho seguro em fachada |
-| **3 — Diagnóstico e ampliação** | Quando houver demanda | Multímetro, curvador 5/8", bolsa coletora para piso-teto/cassete | 400 – 1.150 | Corretiva elétrica e equipamentos maiores |
-| **Total** | | | **6.540 – 16.130** | O recolhimento é metade do investimento |
+| **2B — Produtividade e segurança** | Em 30–60 dias | Balança de carga, detector de vazamento, serra copo nova + extensor, nível, kit trabalho em altura + curso NR-35 | 1.460 – 4.450 | Carga correta de gás, achar vazamento, furos rápidos, trabalho seguro em fachada |
+| **3 — Diagnóstico e ampliação** | Quando houver demanda | Curvador 5/8", bolsa coletora para piso-teto/cassete | 300 – 850 | Corretiva elétrica e equipamentos maiores |
+| **Total** | | | **5.940 – 14.630** | O recolhimento é metade do investimento |
 
 A recolhedora passa pelo James (payback): ela também gera receita em desinstalação e corretiva
 e permite reaproveitar fluido recolhido quando estiver limpo e for do mesmo equipamento.

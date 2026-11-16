@@ -8,7 +8,7 @@ Bomba de vácuo, vacuômetro, manifold, martelete, escada retrátil (até 4,5 m)
 cilindro de N₂ 1 m³ com regulador, maçarico portátil e ferramentas básicas.
 
 A verificar: o vacuômetro lê em **mícrons**? O manifold serve para **R-410A/R-32**?
-A bomba de vácuo tem quantos **CFM** e é compatível com fluidos A2L?
+Bomba de vácuo: **5 CFM** (ok para splits residenciais). Falta confirmar se é compatível com A2L (R-32).
 
 ## 2. Compra de ferramentas em lotes (Fase 1 que falta)
 

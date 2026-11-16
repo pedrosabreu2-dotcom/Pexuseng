@@ -9,39 +9,41 @@ agendados nas folgas. **Estágio 0 — Estruturação** do `plano-crescimento.md
 **Serviços que o Pedro já faz:** instalação de split, manutenção/limpeza, corretiva/carga de gás
 e infraestrutura em obra. **Fluidos:** R-410A, R-32, R-22 e R-134a.
 
-**Ferramentas que já tem:** bomba de vácuo 5 CFM, vacuômetro digital Wipcool, manifold analógico,
-martelete, escada retrátil (até 4,5 m), maleta pequena, cilindro de N₂ 1 m³ com regulador,
-maçarico portátil, kit de higienização (bomba de pressão, bolsa coletora para split até
-30.000 BTU/h, pulverizador) e ferramentas básicas.
+**Disponibilidade:** 1 dia de semana ocasional + fins de semana e feriados (~4 a 6 dias/mês).
+**Logística:** carro próprio (Nissan Kicks 1.6 automático). Trabalha sozinho na maior parte do
+tempo; chama o Jacó (ou outro ajudante) por diária quando precisa.
+
+**Ferramentas que já tem:** bomba de vácuo 5 CFM, vacuômetro digital Wipcool, manifold analógico
+R-410A/R-32 (com adaptação para R-22), flangeador excêntrico, cortador de tubo, curvadores
+(mola 1/2" e alavanca 1/4" e 3/8"), alicate amperímetro, termômetro digital pequeno, martelete,
+escada retrátil (até 4,5 m), maleta pequena, cilindro de N₂ 1 m³ com regulador, maçarico portátil,
+kit de higienização (bomba de pressão, bolsa coletora até 30.000 BTU/h, pulverizador) e
+ferramentas básicas.
 
 Pontos de atenção:
-- **Manifold analógico:** confirmar a escala/gases do mostrador. Se for de R-22/R-134a, **não usar em
-  R-410A/R-32** (pressões cerca de 60 % maiores e óleo diferente — POE × mineral). Nesse caso,
-  comprar um manifold para R-410A/R-32 (Lote 1) e deixar o atual dedicado a R-22/R-134a.
-  Mesmo com um manifold só, manter **mangueiras separadas** por tipo de óleo para não contaminar.
-- **R-32 é levemente inflamável (A2L):** sem chama perto do equipamento com fluido, ambiente
-  ventilado, bomba de vácuo e recolhedora compatíveis com A2L.
-- **R-22:** fluido em eliminação (HCFC). Usar só na manutenção de equipamentos existentes, sempre
-  recolhendo — nunca liberar. Recomendar ao cliente a troca por inverter R-32 é oportunidade de venda.
+- ⚠️ **Recolhimento de fluido:** hoje o recolhimento é feito na própria condensadora (pump-down),
+  o que está certo quando o compressor funciona. Quando não dá, o fluido vem sendo liberado na
+  atmosfera — **isso precisa parar**: a legislação ambiental proíbe a liberação intencional de
+  fluidos controlados como o R-22 (HCFC), os HFC (R-410A, R-134a) têm alto potencial de
+  aquecimento global, e o R-32 é inflamável. Para um engenheiro com registro no CREA também é
+  risco ético e profissional. Solução: **recolhedora + cilindros de recolhimento** (Lote 2A).
+- **Manifold:** usar mangueiras separadas para R-22 (óleo mineral) e para R-410A/R-32/R-134a (POE).
+- **R-32 (A2L):** sem chama perto, ambiente ventilado; recolhedora compatível com A2L.
+- **R-22:** só para manter equipamentos antigos; oferecer a troca por inverter R-32.
+- **Termômetro:** para medir superaquecimento precisa de sonda de contato (tipo K) presa no tubo.
 
 ## 2. Compra de ferramentas em lotes (Fase 1 que falta)
 
-Quantidades para **1 técnico** (Pedro). EPI e kit de altura para o ajudante entram quando ele for fixo.
-
 | Lote | Quando | Itens | Faixa estimada (R$) | Por quê |
 |---|---|---|---|---|
-| **1 — Qualidade da instalação** | Antes do próximo serviço | Flangeador excêntrico, chaves de torque, cortador de tubo (normal + mini), escareador, alicate amperímetro, termômetro de contato, EPI básico | 1.340 – 3.730 | Flange ruim e torque errado causam a maioria dos vazamentos e retornos em garantia |
-| 1 (se preciso) | Junto com o Lote 1 | Manifold para R-410A/R-32 (se o atual for de R-22) | 350 – 800 | Segurança e medição correta nos fluidos de alta pressão |
-| **2 — Produtividade e segurança** | Em 30–60 dias | Balança de carga, **detector de vazamento**, serra copo + extensor, parafusadeira a bateria, nível, kit trabalho em altura (1 conjunto) + curso NR-35 | 1.960 – 5.650 | Carga correta de gás, achar vazamento na corretiva, furos rápidos e trabalho seguro em fachada |
-| **3 — Diagnóstico e ampliação** | Quando houver demanda | Multímetro, curvador, bolsa coletora para piso-teto/cassete (acima de 30.000 BTU/h) | 400 – 1.150 | Corretiva elétrica e higienização de equipamentos maiores |
-| **Maresia** | Junto com o Lote 1 | Ferramentas/EPI: respirador com filtro VO, escova inox, lixas, pincéis | 120 – 300 | Aplicação segura dos produtos anticorrosivos |
-| **Total para fechar a Fase 1** | | | **3.820 – 10.830** (+ 350 – 800 se precisar de manifold) | |
+| **1 — Qualidade da instalação** | Antes do próximo serviço | Chaves de torque para flange, escareador, mini cortador, EPI básico, kit de aplicação anticorrosiva (respirador VO, escova inox, lixas, pincéis); termômetro com sonda de contato se o atual não tiver | 780 – 1.930 (+ 100 – 350 termômetro) | Torque errado é uma das principais causas de vazamento; EPI para os produtos anticorrosivos |
+| **2A — Recolhimento de fluido** | O quanto antes (prioridade ambiental) | Recolhedora compatível com A2L + 2 cilindros de recolhimento | 3.400 – 7.400 | Parar de liberar fluido; viabiliza desinstalação e corretiva de forma legal |
+| **2B — Produtividade e segurança** | Em 30–60 dias | Balança de carga, detector de vazamento, serra copo + extensor, parafusadeira a bateria, nível, kit trabalho em altura + curso NR-35 | 1.960 – 5.650 | Carga correta de gás, achar vazamento, furos rápidos, trabalho seguro em fachada |
+| **3 — Diagnóstico e ampliação** | Quando houver demanda | Multímetro, curvador 5/8", bolsa coletora para piso-teto/cassete | 400 – 1.150 | Corretiva elétrica e equipamentos maiores |
+| **Total** | | | **6.540 – 16.130** | O recolhimento é metade do investimento |
 
-### Materiais de proteção contra maresia (estoque inicial, ~4 condensadoras)
-Revestimento anticorrosivo para serpentina, verniz isolante para placa, graxa de silicone
-dielétrica, galvanização a frio em spray, silicone líquido em spray (só gabinete), álcool
-isopropílico e parafusos inox — **R$ 480 – 1.110**. Detalhes e procedimento:
-`operacional/04-materiais/kit-protecao-maresia.md`.
+A recolhedora passa pelo James (payback): ela também gera receita em desinstalação e corretiva
+e permite reaproveitar fluido recolhido quando estiver limpo e for do mesmo equipamento.
 
 ## 3. Particularidades do Rio de Janeiro
 - **Alta temporada começando (nov–mar):** pico de instalação e de corretiva. Priorizar instalações
@@ -51,6 +53,8 @@ isopropílico e parafusos inox — **R$ 480 – 1.110**. Detalhes e procedimento
   serpentina com água doce a cada 3–6 meses. A proteção anticorrosiva também é um **serviço
   avulso** para vender (preço com o James, divulgação com o Michael).
 - **Condomínios:** regras de fachada e horário de obra são comuns — perguntar na triagem.
+- **Clientes atuais em Copacabana:** primeiros candidatos ao serviço de proteção contra maresia
+  (`servicos/protecao-anticorrosiva-maresia.md`), oferecido junto com a próxima limpeza.
 - **Trânsito:** agrupar atendimentos por zona (Zona Sul, Norte, Oeste, Centro, Niterói) no mesmo dia.
 
 Preços de referência: cotar com 3 fornecedores. Compras acima de R$ 1.000 passam pelo James
@@ -74,5 +78,5 @@ Preços de referência: cotar com 3 fornecedores. Compras acima de R$ 1.000 pass
 ## 5. Quando passar para o Estágio 1
 - Registro profissional do Pedro no CREA ativo.
 - CNPJ aberto dentro do que a Força permite e registro da PJ no CREA com responsável técnico.
-- Lotes 1 e 2 comprados.
+- Lotes 1, 2A e 2B comprados (recolhimento de fluido funcionando).
 - Pelo menos 5 serviços registrados com horas e material reais.

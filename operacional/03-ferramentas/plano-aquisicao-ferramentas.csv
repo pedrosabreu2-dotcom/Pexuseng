@@ -1,19 +1,19 @@
 fase,categoria,item,especificacao_minima,qtd,preco_min_brl,preco_max_brl,prioridade,status,justificativa
 1,Vácuo e carga,Bomba de vácuo,Duplo estágio 5 a 7 CFM com válvula solenoide anti-retorno,1,900,2000,A,comprado,Obrigatória para toda instalação; vácuo correto evita retorno em garantia | SITUAÇÃO: Tem bomba 5 CFM (atende splits até ~60k); confirmar compatibilidade A2L/R-32
 1,Vácuo e carga,Vacuômetro digital,Leitura em mícrons (0-20.000 µmHg),1,450,1200,A,comprado,Única forma de comprovar vácuo abaixo de 500 µmHg | SITUAÇÃO: Tem vacuômetro digital Wipcool
-1,Vácuo e carga,Manifold,Analógico 2 vias R-410A/R-32 com mangueiras 1/4 e 5/16 + adaptadores,1,350,800,A,parcial,Medição de pressões e carga | SITUAÇÃO: Tem manifold analógico; se for de R-22 comprar um para R-410A/R-32
+1,Vácuo e carga,Manifold,Analógico 2 vias R-410A/R-32 com mangueiras 1/4 e 5/16 + adaptadores,1,350,800,A,comprado,Medição de pressões e carga | SITUAÇÃO: Tem manifold analógico R-410A/R-32 com adaptação para R-22 — usar mangueiras separadas por tipo de óleo
 1,Vácuo e carga,Balança eletrônica de carga,Até 100 kg resolução 5 g,1,500,1200,A,pendente,Carga adicional de fluido por massa
-1,Tubulação,Cortador de tubo,1/8 a 1 1/8 pol + mini cortador,2,80,250,A,pendente,Corte sem limalha
-1,Tubulação,Flangeador excêntrico,Com catraca 1/4 a 3/4 pol para R-410A,1,300,900,A,pendente,Flange de qualidade é a principal prevenção de vazamento
+1,Tubulação,Cortador de tubo,Mini cortador para espaços apertados (já tem o cortador normal),1,80,250,A,pendente,Corte sem limalha | SITUAÇÃO: Tem cortador; falta o mini
+1,Tubulação,Flangeador excêntrico,Com catraca 1/4 a 3/4 pol para R-410A,1,300,900,A,comprado,Flange de qualidade é a principal prevenção de vazamento | SITUAÇÃO: Tem flangeador excêntrico
 1,Tubulação,Escareador / rebarbador,Lâmina giratória,1,30,80,A,pendente,Rebarba sem contaminar o tubo
-1,Tubulação,Curvador de tubos,Tipo alavanca 1/4 3/8 1/2 5/8,1,150,450,B,pendente,Evita amassamento e conexões extras
+1,Tubulação,Curvador de tubos,Tipo alavanca 1/4 3/8 1/2 5/8,1,150,450,B,parcial,Evita amassamento e conexões extras | SITUAÇÃO: Tem curvador de mola 1/2 e curvador 1/4 e 3/8; falta 5/8
 1,Tubulação,Jogo de chaves de torque (torquímetro de flange),Chaves de boca com torque fixo 1/4 a 5/8 pol,1,300,800,A,pendente,Torque correto conforme fabricante
 1,Tubulação,Kit maçarico portátil,MAPP/oxi-GLP com varetas de prata 5% e 15%,1,300,1500,B,comprado,Emendas de linha longa
 1,Teste,Cilindro de nitrogênio + regulador,Cilindro 1 a 3 m³ com regulador de 2 manômetros até 800 psi,1,1200,2600,A,comprado,Teste de estanqueidade e purga de brasagem
 1,Teste,Detector de vazamento eletrônico,Sensor aquecido ou infravermelho para HFC/HFO,1,400,1500,B,pendente,Localizar vazamentos em manutenção corretiva | Pedro já faz corretiva/carga de gás: antecipar para o Lote 2
-1,Elétrica,Alicate amperímetro,True RMS com capacitância e temperatura,1,200,600,A,pendente,Corrente de compressor e diagnóstico de capacitor
+1,Elétrica,Alicate amperímetro,True RMS com capacitância e temperatura,1,200,600,A,comprado,Corrente de compressor e diagnóstico de capacitor | SITUAÇÃO: Tem alicate amperímetro
 1,Elétrica,Multímetro digital,CAT III 600 V,1,100,300,B,pendente,Diagnóstico de placa e sensores
-1,Medição,Termômetro digital de contato + infravermelho,Com sonda tipo K para superaquecimento,1,100,350,A,pendente,Comissionamento e diagnóstico
+1,Medição,Termômetro digital de contato + infravermelho,Com sonda tipo K para superaquecimento,1,100,350,A,parcial,Comissionamento e diagnóstico | SITUAÇÃO: Tem termômetro digital pequeno; confirmar se tem sonda de contato p/ superaquecimento
 1,Furação,Martelete perfurador SDS Plus,800 W ou mais com função rompedor,1,600,1500,A,comprado,Furos de passagem em alvenaria/concreto
 1,Furação,Serra copo diamantada / bimetálica,Ø 63 a 76 mm + extensor SDS,1,150,450,A,pendente,Furo de passagem da linha
 1,Furação,Parafusadeira/furadeira a bateria,18 V com 2 baterias,1,500,1200,A,pendente,Fixação de suportes e placa
@@ -26,7 +26,8 @@ fase,categoria,item,especificacao_minima,qtd,preco_min_brl,preco_max_brl,priorid
 1,Limpeza,Bolsa coletora para piso-teto/cassete,Para equipamentos acima de 30.000 BTU/h,1,150,400,B,pendente,Higienização de equipamentos maiores
 1,Proteção anticorrosiva,Kit aplicação anticorrosiva,Respirador semifacial com filtro VO + escova de aço inox + lixas + pincéis + fita crepe,1,120,300,B,pendente,Proteção de condensadoras em região de maresia (RJ litorâneo) — também serviço avulso
 1,Logística,Caixas organizadoras e bolsa de ferramentas,Maleta para manifold e vácuo,1,150,500,B,parcial,Conservação e produtividade | SITUAÇÃO: Tem maleta pequena
-2,Recolhimento,Recolhedora de fluido refrigerante,Compressor oil-less para HFC/R-32 + cilindro de recolhimento,1,3000,6500,A,pendente,Desinstalação e manutenção sem liberar gás (exigência ambiental)
+1,Recolhimento,Recolhedora de fluido refrigerante,Compressor oil-less compatível com HFC e A2L (R-32),1,3000,6500,A,pendente,Obrigação ambiental: não liberar fluido na atmosfera; necessária quando não dá para recolher na condensadora | SITUAÇÃO: Pedro não tem sistema de recolhimento
+1,Recolhimento,Cilindros de recolhimento,Cilindro retornável com válvula dupla e boia; 1 por família de fluido (R-22 / HFC),2,400,900,A,pendente,Armazenar fluido recolhido separado por tipo para regeneração ou destinação correta
 2,Vácuo e carga,Manifold digital,Com cálculo de superaquecimento/sub-resfriamento e vacuômetro integrado,1,1500,4000,B,pendente,Diagnóstico rápido e relatório ao cliente
 2,Tubulação,Expansor de tubos (swaging),Cabeçotes 1/4 a 7/8 pol,1,250,900,B,pendente,Emendas sem luva
 2,Tubulação,Kit oxiacetileno portátil,Cilindros pequenos com regulador e maçarico,1,1500,3500,C,pendente,Brasagem de maior bitola

@@ -22,8 +22,9 @@ operacional/
   02-obras/         fluxo da obra, checklists, diário de obra, termo de entrega
   03-ferramentas/   plano de aquisição de ferramentas por fase (CSV + guia)
   04-materiais/     tabelas técnicas, kits de material (inclui proteção contra maresia), requisição
-ferramentas-sw/     scripts Python (calculadora de carga térmica e lista de materiais)
+ferramentas-sw/     scripts Python (carga térmica, lista de materiais, custo de serviços)
 obras/              uma pasta por obra: obras/AAAA-NNN-cliente/
+servicos/           fichas de serviços (escopo, custo, preço sugerido)
 ```
 
 ## Convenções

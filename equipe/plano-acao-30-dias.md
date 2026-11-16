@@ -31,17 +31,17 @@ Pontos de atenção:
 - **Manifold:** usar mangueiras separadas para R-22 (óleo mineral) e para R-410A/R-32/R-134a (POE).
 - **R-32 (A2L):** sem chama perto, ambiente ventilado; recolhedora compatível com A2L.
 - **R-22:** só para manter equipamentos antigos; oferecer a troca por inverter R-32.
-- **Termômetro:** para medir superaquecimento precisa de sonda de contato (tipo K) presa no tubo.
+- **Termômetro:** o atual não tem presilha → comprar termômetro com sonda tipo K de pinça (Lote 1).
 
 ## 2. Compra de ferramentas em lotes (Fase 1 que falta)
 
 | Lote | Quando | Itens | Faixa estimada (R$) | Por quê |
 |---|---|---|---|---|
-| **1 — Qualidade da instalação** | Antes do próximo serviço | Chaves de torque para flange, escareador, mini cortador, EPI básico, kit de aplicação anticorrosiva (respirador VO, escova inox, lixas, pincéis); termômetro com sonda de contato se o atual não tiver | 780 – 1.930 (+ 100 – 350 termômetro) | Torque errado é uma das principais causas de vazamento; EPI para os produtos anticorrosivos |
+| **1 — Qualidade da instalação** | Antes do próximo serviço | Chaves de torque para flange, escareador, mini cortador, EPI básico, kit de aplicação anticorrosiva (respirador VO, escova inox, lixas, pincéis), **termômetro com sonda de pinça** | 880 – 2.280 | Torque errado é uma das principais causas de vazamento; EPI para os produtos anticorrosivos |
 | **2A — Recolhimento de fluido** | O quanto antes (prioridade ambiental) | Recolhedora compatível com A2L + 2 cilindros de recolhimento | 3.400 – 7.400 | Parar de liberar fluido; viabiliza desinstalação e corretiva de forma legal |
 | **2B — Produtividade e segurança** | Em 30–60 dias | Balança de carga, detector de vazamento, serra copo nova + extensor, nível, kit trabalho em altura + curso NR-35 | 1.460 – 4.450 | Carga correta de gás, achar vazamento, furos rápidos, trabalho seguro em fachada |
 | **3 — Diagnóstico e ampliação** | Quando houver demanda | Curvador 5/8", bolsa coletora para piso-teto/cassete | 300 – 850 | Corretiva elétrica e equipamentos maiores |
-| **Total** | | | **5.940 – 14.630** | O recolhimento é metade do investimento |
+| **Total** | | | **6.040 – 14.980** | O recolhimento é metade do investimento |
 
 A recolhedora passa pelo James (payback): ela também gera receita em desinstalação e corretiva
 e permite reaproveitar fluido recolhido quando estiver limpo e for do mesmo equipamento.

@@ -13,7 +13,7 @@ fase,categoria,item,especificacao_minima,qtd,preco_min_brl,preco_max_brl,priorid
 1,Teste,Detector de vazamento eletrônico,Sensor aquecido ou infravermelho para HFC/HFO,1,400,1500,B,pendente,Localizar vazamentos em manutenção corretiva | Pedro já faz corretiva/carga de gás: antecipar para o Lote 2
 1,Elétrica,Alicate amperímetro,True RMS com capacitância e temperatura,1,200,600,A,comprado,Corrente de compressor e diagnóstico de capacitor | SITUAÇÃO: Tem alicate amperímetro
 1,Elétrica,Multímetro digital,CAT III 600 V,1,100,300,B,comprado,Diagnóstico de placa e sensores | SITUAÇÃO: Tem multímetro com capacímetro
-1,Medição,Termômetro digital de contato + infravermelho,Com sonda tipo K para superaquecimento,1,100,350,A,parcial,Comissionamento e diagnóstico | SITUAÇÃO: Tem termômetro digital pequeno; confirmar se tem sonda de contato p/ superaquecimento
+1,Medição,Termômetro digital de contato + infravermelho,Termômetro com sonda tipo K de pinça (presilha) para tubo até 7/8 pol,1,100,350,A,pendente,Medir superaquecimento e sub-resfriamento no comissionamento e na carga de gás | SITUAÇÃO: Tem termômetro pequeno sem presilha — comprar com sonda de pinça
 1,Furação,Martelete perfurador SDS Plus,800 W ou mais com função rompedor,1,600,1500,A,comprado,Furos de passagem em alvenaria/concreto
 1,Furação,Serra copo diamantada / bimetálica,Ø 63 a 76 mm + extensor SDS,1,150,450,A,pendente,Furo de passagem da linha | SITUAÇÃO: Tem uma gasta; comprar nova (reposição)
 1,Furação,Parafusadeira/furadeira a bateria,18 V com 2 baterias,1,500,1200,A,comprado,Fixação de suportes e placa | SITUAÇÃO: Tem parafusadeira

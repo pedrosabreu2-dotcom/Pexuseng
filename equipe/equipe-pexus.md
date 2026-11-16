@@ -46,4 +46,4 @@ Contato do cliente ─► Severino: visita técnica + projeto + Pacote Técnico
 - **Mensal (Severino + James):** indicadores operacionais × financeiros, desvio orçado × real,
   próxima ferramenta a comprar, progresso do plano de crescimento.
 
-Plano de crescimento: `plano-crescimento.md`.
+Plano de crescimento: `plano-crescimento.md` · Plano de ação atual: `plano-acao-30-dias.md`.

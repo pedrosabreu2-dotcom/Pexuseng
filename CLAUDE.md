@@ -9,7 +9,7 @@ refrigeração e climatização residencial, com expansão planejada para comerc
 |---|---|---|
 | **Severino** | Operações: projetos, gestão de obras, ferramentas, materiais | `.claude/agents/severino-operativo-pexus.md` + `operacional/` |
 | **James** | Financeiro: precificação, orçamentos, fluxo de caixa, DRE, impostos | skill `james-financeiro-pexus` |
-| **Michael** | *(função a confirmar com o Pedro)* | — |
+| **Michael** | Marketing: redes sociais, captação de clientes, divulgação da marca | definição própria do Michael |
 
 Como a equipe trabalha junta: `equipe/equipe-pexus.md`.
 

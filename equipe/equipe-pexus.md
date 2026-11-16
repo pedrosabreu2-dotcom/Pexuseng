@@ -7,12 +7,12 @@ calculam, organizam e recomendam.
 |---|---|---|
 | **Severino** — Operações | Visita técnica, projeto, carga térmica, obra, ferramentas, materiais, estoque | Pacote técnico (escopo + materiais + H/h), cronograma, relatórios de obra, indicadores operacionais |
 | **James** — Financeiro | Preço, orçamento, caixa, DRE, impostos, payback | Proposta com preço, aprovação de compras, metas de faturamento e margem |
-| **Michael** — *(a definir)* | *(aguardando definição do Pedro)* | — |
+| **Michael** — Marketing | Redes sociais, captação de clientes, portfólio, campanhas sazonais | Contatos de clientes (leads) com dados para a visita, calendário de campanhas |
 
 ## Fluxo de um serviço (do contato ao pós-venda)
 
 ```
-Contato do cliente ─► Severino: visita técnica + projeto + Pacote Técnico
+Michael: divulgação ─► Contato do cliente ─► Severino: visita técnica + projeto + Pacote Técnico
                                    │
                                    ▼
                      James: preço + proposta ─► cliente aprova?
@@ -40,10 +40,15 @@ Contato do cliente ─► Severino: visita técnica + projeto + Pacote Técnico
 | Severino → James | Fechamento da obra (H/h e material reais) | Na entrega — calibra o custo da hora |
 | James → Severino | Proposta aprovada + condições | Libera a abertura da obra |
 | James → Severino | Meta mensal de serviços | Planejamento de capacidade |
+| Severino → Michael | Fotos antes/depois + resumo técnico do serviço (com autorização do cliente) | Na entrega de cada serviço — material para portfólio e redes |
+| Severino → Michael | Agenda disponível (quantos serviços cabem por semana) | Semanal — Michael não promete o que a operação não consegue entregar |
+| Severino → Michael | Serviços a divulgar por estação (higienização antes do verão, preventiva no inverno) | Mensal |
+| Michael → Severino | Lead: nome, bairro, serviço, nº de aparelhos, BTU, fotos do local | A cada contato — vira a triagem da visita técnica |
+| James → Michael | Preços e promoções aprovadas | Antes de qualquer campanha com preço |
 
 ## Rotina da equipe
 - **Semanal (Severino):** agenda de obras da semana, materiais a comprar, pendências de entrega.
-- **Mensal (Severino + James):** indicadores operacionais × financeiros, desvio orçado × real,
-  próxima ferramenta a comprar, progresso do plano de crescimento.
+- **Mensal (Severino + James + Michael):** indicadores operacionais × financeiros, desvio orçado × real,
+  próxima ferramenta a comprar, campanhas do mês × capacidade, progresso do plano de crescimento.
 
 Plano de crescimento: `plano-crescimento.md` · Plano de ação atual: `plano-acao-30-dias.md`.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PEXUS — ferramentas do Agente Operativo.
+"""PEXUS — ferramentas do Severino (Agente Operativo).
 
 Subcomandos:
   carga        Carga térmica simplificada (residencial) e capacidade recomendada.
@@ -134,7 +134,7 @@ def cmd_ferramentas(a):
 
 
 def main():
-    p = argparse.ArgumentParser(description="PEXUS — Agente Operativo")
+    p = argparse.ArgumentParser(description="PEXUS — Severino, Agente Operativo")
     sub = p.add_subparsers(dest="cmd", required=True)
 
     c = sub.add_parser("carga", help="carga térmica simplificada")

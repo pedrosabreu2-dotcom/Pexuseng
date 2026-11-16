@@ -1,6 +1,6 @@
 # PEXUS Engenharia — Operacional
 
-Base de trabalho do **Agente Operativo** da PEXUS Engenharia e Soluções em Refrigeração e
+Base de trabalho do **Severino**, agente operativo da PEXUS Engenharia e Soluções em Refrigeração e
 Climatização: projetos, gestão de obras, aquisição de ferramentas e de materiais.
 
 ## Início rápido
@@ -17,4 +17,5 @@ python3 ferramentas-sw/pexus_ops.py ferramentas --detalhar
 ```
 
 Nova obra: siga `operacional/02-obras/fluxo-gestao-obra.md`.
+Equipe (Severino, James, Michael) e plano de crescimento: `equipe/`.
 Veja `CLAUDE.md` para a estrutura completa e a divisão entre agentes (Operativo × James).

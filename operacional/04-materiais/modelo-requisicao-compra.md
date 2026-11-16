@@ -1,7 +1,7 @@
 # Requisição de Compra de Material — PEXUS
 
 **Nº:** RC-AAAA-NNN **Obra:** AAAA-NNN **Data:** ___/___/____ **Necessário até:** ___/___/____
-**Solicitante:** Agente Operativo **Aprovação financeira:** James ☐
+**Solicitante:** Severino (Operações) **Aprovação financeira:** James ☐
 
 | # | Item | Especificação | Un. | Qtd. obra | Em estoque | Qtd. comprar | Forn. 1 (R$) | Forn. 2 (R$) | Forn. 3 (R$) | Escolhido |
 |---|---|---|---|---|---|---|---|---|---|---|

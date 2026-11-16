@@ -3,19 +3,20 @@
 Empresa de engenharia (em estruturação) fundada por Engenheiro Mecânico, atuando em
 refrigeração e climatização residencial, com expansão planejada para comercial leve.
 
-## Agentes da empresa
+## Equipe de agentes da PEXUS
 
 | Agente | Área | Onde está |
 |---|---|---|
+| **Severino** | Operações: projetos, gestão de obras, ferramentas, materiais | `.claude/agents/severino-operativo-pexus.md` + `operacional/` |
 | **James** | Financeiro: precificação, orçamentos, fluxo de caixa, DRE, impostos | skill `james-financeiro-pexus` |
-| **Operativo** | Operacional: projetos, gestão de obras, ferramentas, materiais | `.claude/agents/operativo-pexus.md` + pasta `operacional/` |
+| **Michael** | *(função a confirmar com o Pedro)* | — |
 
-Fluxo entre agentes: o **Operativo** gera o escopo técnico, a lista de materiais
-(quantidades) e as horas/homem; o **James** transforma isso em preço e proposta comercial.
+Como a equipe trabalha junta: `equipe/equipe-pexus.md`.
 
 ## Estrutura do repositório
 
 ```
+equipe/           equipe de agentes, fluxo entre áreas, plano de crescimento
 operacional/
   01-projetos/      procedimento de projeto, carga térmica, memorial descritivo
   02-obras/         fluxo da obra, checklists, diário de obra, termo de entrega

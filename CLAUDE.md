@@ -1,7 +1,10 @@
 # PEXUS Engenharia e Soluções em Refrigeração e Climatização
 
-Empresa de engenharia (em estruturação) fundada por Engenheiro Mecânico, atuando em
-refrigeração e climatização residencial, com expansão planejada para comercial leve.
+Empresa de **engenharia e soluções** (em estruturação), fundada por Engenheiro Mecânico.
+Missão: o cliente traz o imóvel e a PEXUS resolve tudo em um só lugar — climatização, elétrica,
+drywall (rebaixamento, sancas, enclausuramento de tubulação), hidráulica, pintura e acabamento —
+coordenando parceiros (marcenaria: Douglas Batista; alvenaria: a definir). Hoje residencial;
+preparada para comercial e industrial. Detalhes: `equipe/missao-e-objetivo.md`.
 
 ## Equipe de agentes da PEXUS
 
@@ -9,7 +12,8 @@ refrigeração e climatização residencial, com expansão planejada para comerc
 |---|---|---|
 | **Severino** | Operações: projetos, gestão de obras, ferramentas, materiais | `.claude/agents/severino-operativo-pexus.md` + `operacional/` |
 | **James** | Financeiro: precificação, orçamentos, fluxo de caixa, DRE, impostos | skill `james-financeiro-pexus` |
-| **Michael** | Marketing: redes sociais, captação de clientes, divulgação da marca | definição própria do Michael |
+| **Michael** | Marketing: redes sociais, captação de clientes, divulgação da marca | skill `michael-marketing-pexus` |
+| **Beth** | Secretária: agenda, clientes, PMOC e cobranças no app PEXUS | skill `beth-secretaria-pexus` |
 
 Como a equipe trabalha junta: `equipe/equipe-pexus.md`.
 
@@ -25,12 +29,16 @@ operacional/
 ferramentas-sw/     scripts Python (carga térmica, lista de materiais, custo de serviços)
 obras/              uma pasta por obra: obras/AAAA-NNN-cliente/
 servicos/           fichas de serviços (escopo, custo, preço sugerido)
+projetos/modelo/    PEXUS-Projeto-e-Orcamento.xlsx — modelo de levantamento e orçamento de TODO projeto
+                    (gerado por ferramentas-sw/gerar_planilha_projeto.py)
 marketing/          campanhas prontas (artes + legendas) para o Michael
 ```
 
 ## Convenções
 
 - Idioma: português do Brasil. Unidades: BTU/h, TR, m, mm², polegadas para tubos de cobre.
+- Todo orçamento de projeto/obra sai de uma cópia de `projetos/modelo/PEXUS-Projeto-e-Orcamento.xlsx`,
+  salva na pasta da obra.
 - Código de obra: `AAAA-NNN` (ex.: `2026-001`). Pasta: `obras/2026-001-sobrenome-cliente/`.
 - Preços em tabelas de ferramentas/materiais são **estimativas de referência** — sempre cotar
   com pelo menos 3 fornecedores antes de comprar.

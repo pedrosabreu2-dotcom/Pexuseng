@@ -1,5 +1,7 @@
 # Equipe PEXUS — Como os agentes trabalham juntos
 
+> **Objetivo da empresa:** engenharia e soluções completas para o imóvel do cliente — ver `missao-e-objetivo.md`.
+
 **Pedro** (Eng. Mecânico, responsável técnico e dono) decide. Os agentes preparam,
 calculam, organizam e recomendam.
 
@@ -7,6 +9,7 @@ calculam, organizam e recomendam.
 |---|---|---|
 | **Severino** — Operações | Visita técnica, projeto, carga térmica, obra, ferramentas, materiais, estoque | Pacote técnico (escopo + materiais + H/h), cronograma, relatórios de obra, indicadores operacionais |
 | **James** — Financeiro | Preço, orçamento, caixa, DRE, impostos, payback | Proposta com preço, aprovação de compras, metas de faturamento e margem |
+| **Beth** — Secretária | Agenda, cadastro de clientes, PMOC, cobranças no app; pergunta ao cliente sobre todos os serviços do imóvel | Agendamentos, ordens de serviço, lembretes de PMOC e cobrança |
 | **Michael** — Marketing | Redes sociais, captação de clientes, portfólio, campanhas sazonais | Contatos de clientes (leads) com dados para a visita, calendário de campanhas |
 
 ## Fluxo de um serviço (do contato ao pós-venda)
